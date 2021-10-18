@@ -8,7 +8,7 @@ The purpose of this challenge is to replace 9th grade student data with NaN and 
 
 ## Results
 ### District Summary
-![District Summary](Resources/Challenge Pics/DistrictSummary.jpg)
+! [District Summary] (Resources/Challenge Pics/DistrictSummary.jpg)
 
 
 

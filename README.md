@@ -8,7 +8,10 @@ The purpose of this challenge is to replace 9th grade student data with NaN and 
 
 ## Results
 ### District Summary
+![updated district Summary](Resources/Challenge Pics/DistrictSummary.jpg)
+
 ### School Summary
+
 ### Top 5 performing schools based on overall passing rate
 
 ### Bottom 5 performing schools based on overall passing rate
